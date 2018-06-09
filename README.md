@@ -17,12 +17,12 @@
 
 ### 编译
 在命令行中，切换至simple-os代码的根目录。执行
-`mingw32-make.exe
+> mingw32-make.exe
 
 最终生成的boot.img就是我们的所需要的系统镜像
 
 ### 运行
 在命令行中，依旧保持在simple-os代码的根目录。执行
-`bochs -q -f bochsrc.txt
+> bochs -q -f bochsrc.txt
 
 在Bochs打开的模拟器界面可以看到红字的“Hello world!”，大功告成。
