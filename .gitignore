@@ -1,0 +1,8 @@
+# ignore compile files
+boot.o
+boot.elf
+boot.bin
+boot.img
+
+# bochs log file
+bochsout.txt
