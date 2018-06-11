@@ -17,7 +17,7 @@
 
 ### 编译
 在命令行中，切换至simple-os代码的根目录。执行
-> mingw32-make.exe
+> mingw32-make
 
 最终生成的boot.img就是我们的所需要的系统镜像
 

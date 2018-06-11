@@ -1,3 +1,6 @@
+# idea files
+.idea/
+
 # ignore compile files
 boot.o
 boot.elf
